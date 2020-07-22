@@ -8,6 +8,8 @@ If you already have python installed and want to run this tool using your local 
 
 The code is minimal and contained within grasshopper c# components and the app_local.py file. Please feel free to fork this repo, modify and improve (as honestly James has hacked this together with very little concern for neatness)
 
+IMPORTANT - the folder WPy64 needs to stay in the same directory as app_local.py (unless you decide to explictly change the code yourself to modify this requirement)
+
 ![](images/stress.png)
 
 ![](images/gh.png)
