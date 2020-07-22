@@ -6,6 +6,8 @@ The included folder WPy64 contains a standalone python environment downloaded fr
 
 If you already have python installed and want to run this tool using your local installation then that's totally possible. Check out Robbie's site to explain the modules you will need, then you need to change 1 line of code in the provided grasshopper script. A comment in that script tells you what to do.
 
+The code is minimal and contained within grasshopper c# components and the app_local.py file. Please feel free to fork this repo, modify and improve (as honestly James has hacked this together with very little concern for neatness)
+
 ![](images/stress.png)
 
 ![](images/gh.png)
